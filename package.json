@@ -1,16 +1,16 @@
 {
-  "name": "web-animations-js",
+  "name": "khalid-s-web-animations-js",
   "description": "JavaScript implementation of the Web Animations API",
   "repository": {
     "type": "git",
-    "url": "https://github.com/web-animations/web-animations-js.git"
+    "url": "https://github.com/khalid-s/web-animations-js.git"
   },
   "version": "2.2.5",
   "keywords": [
     "animations",
     "polyfill"
   ],
-  "homepage": "https://github.com/web-animations",
+  "homepage": "https://github.com/khalid-s",
   "license": "Apache-2.0",
   "main": "web-animations.min.js",
   "files": [
